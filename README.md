@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Anton 👋
 
-<!--
-**ahokkonen/ahokkonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As the CTO of Mtech Digital Solutions, I focus on using technology to make farming more sustainable and efficient.
 
-Here are some ideas to get you started:
+### What drives me:
+- 🌱 **Sustainability:** Innovating for eco-friendly agricultural solutions.
+- 💻 **Coding:** Delving into technologies and contributing code.
+- 🚀 **Innovation:** Fostering advancements in agri-tech.
+- 🏊‍♂️🚴‍♂️🏃‍♂️ **Triathlon:** Embracing the challenge, discipline, and joy of triathlon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Let's connect:
+- GitHub: [ahokkonen](https://github.com/ahokkonen)
+- LinkedIn: [Anton Hokkonen](https://www.linkedin.com/in/anton-hokkonen/)
