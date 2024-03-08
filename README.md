@@ -1,6 +1,7 @@
 # Hi there, I'm Anton 👋
 
 As the CTO of Mtech Digital Solutions, I focus on using technology to make farming more sustainable and efficient.
+This is my personal profile - the corporate one is [mtech-ahokkonen](https://github.com/mtech-ahokkonen). 
 
 ### What drives me:
 - 🌱 **Sustainability:** Innovating for eco-friendly agricultural solutions.
